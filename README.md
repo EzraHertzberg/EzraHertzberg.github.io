@@ -1,1 +1,1 @@
-# EzraHertzberg.github.io
+Welcome to my new blog
