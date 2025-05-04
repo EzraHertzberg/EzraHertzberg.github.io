@@ -1,0 +1,35 @@
+body{
+margin:60px;
+background:#FFE39F; 
+font-family:sans-sarif;  
+}
+#heading{
+  text-align:center;
+  background:red;
+  color:yellow;
+  margin:-60px;
+  padding:10px;
+  border:6px,ridge,red;
+}
+#story{
+  color:#A51E1E;
+  font-weight:bold;
+  font-size:40px;
+  margin-top:60px;
+}
+
+img{  
+border:10px,ridge,red;
+}
+
+#frog{
+  margin-right:20px;
+  margin-top:-20px;
+  float:left;
+}
+#storyp{
+color:#A51E1E;  
+font-size: 35px;  
+margin-left:20px;
+width:80%;
+}
